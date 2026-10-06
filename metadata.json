@@ -1,0 +1,6 @@
+{
+  "name": "Social IA Pro",
+  "description": "Treinamento para aprender a usar IA na gestão de redes sociais com método prático, estrutura clara e aplicação real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
